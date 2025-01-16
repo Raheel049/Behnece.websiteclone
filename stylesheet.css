@@ -1,0 +1,72 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    
+    box-sizing: border-box;
+    font-family: "Roboto", sans-serif;
+    }
+
+
+#FirstNab{
+position: sticky;
+top: 0px;
+
+}
+
+
+#navbtn{
+border-radius: 35px;
+
+}
+
+
+#Searchbar {
+    position: sticky;       /* Makes the search bar sticky */
+    top: 60px;              /* Sticks 50px below the top of the viewport */
+    background-color: #fff; /* White background for better visibility */
+    z-index: 1;           /* Keeps it above other content */
+    border-bottom: 1px solid #ddd; 
+    border-radius: 35px;
+
+}
+
+
+
+#navbtn2{
+border-radius: 35px;
+
+
+}
+
+#btn3{
+border-radius: 35px;
+width: 120px;
+height: 50px;
+
+
+}
+
+.footer{
+background-color: black;
+color: white;
+height: 500px;
+}
+
+li{
+list-style-type: none;
+line-height: 30px;
+}
+
+.btn5{
+border-radius: 35px;
+}
+
+p{
+    display: inline-block;
+}
+
+h6{
+    display: inline-block;
+}
+
+
